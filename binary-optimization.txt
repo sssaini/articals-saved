@@ -1,0 +1,13 @@
+• 50% is actual code and balance 50% of the size is on account of "others" (1032192 bytes) which is a __LINKEDIT segment.
+• LINKEDIT segment contains the information necessary to relocate the binary by dynamic loader.
+• Some resources on LINKEDIT section:
+• http://newosxbook.com/articles/DYLD.html
+• https://adrummond.net/posts/macho
+• https://medium.com/tokopedia-engineering/a-curious-case-of-mach-o-executable-26d5ecadd995
+• http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html
+• https://stackoverflow.com/questions/33885744/ios-app-binary-size
+• from 1032192 bytes (~1mb) 
+• to 500256 bytes (0.4mb)
+• With DEPLOYMENT_POSTPROCESSING=YES and ENABLE_BITCODE=NO build setting, the size of the LINKEDIT section came down 
+• Overall dunamis-ingest library size is 1.2mb
+• But the catch is the consuming application must also have ENABLE_BITCODE=NO to consume the library.
