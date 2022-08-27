@@ -1,0 +1,5 @@
+- high reliability across data centers
+- scalability to thousands of network nodes
+- huge read/write bandwidth requirements
+- support for large blocks of data which are gigabytes in size.
+- efficient distribution of operations across nodes to reduce bottlenecks
