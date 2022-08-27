@@ -1,0 +1,11 @@
+https://newrelic.com/resources/white-papers/log-management-best-practices
+
+https://sematext.com/blog/logging-levels/
+
+https://devcenter.heroku.com/articles/writing-best-practices-for-application-logs
+
+https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df
+
+https://www.dataset.com/blog/the-10-commandments-of-logging/
+
+
