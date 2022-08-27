@@ -1,0 +1,10 @@
+	function :
+  1. Functions should either do something or answer something, but not both. Either your function should change the state of an object, or it should return some information about that object. Doing both often leads to confusion
+	
+	// unit test
+	The BUILD-OPERATE-CHECK2 pattern is made obvious by the structure of these tests. Each of the tests is clearly split into three parts. The first part builds up the test data, the second part operates on that test data, and the third part checks that the operation yielded the expected results.
+
+	//concurrency
+  “Objects are abstractions of processing. Threads are abstractions of schedule.”
+
+	
