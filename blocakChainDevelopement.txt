@@ -1,0 +1,36 @@
+STEP 5: KNOW YOUR TOOLSET
+When you hire a blockchain app developer, make sure they are familiar with the following technologies. Please note that it’s extremely rare (and costly) to find a developer who knows and has hands-on experience with all of these development techniques:
+
+JavaScript (React/Vue)
+
+front-end development
+smart contracts testing
+Python, Go, Rust, C++
+
+back-end coding
+business logic development
+Node.js, Solidity
+
+smart contract development
+Truffle
+
+developing smart contracts with the Solidity programming language
+testing blockchain code
+MetaMask
+
+Ethereum wallet
+provides chain connectivity inside a browser
+Ganache
+
+spin up a local blockchain in seconds with funded accounts
+cheap alternative to setting up a full-fledged testing environment
+Web3.js or Ether.js
+
+connects the front-end portion of a dapp with a blockchain
+Express.js
+
+off-chain back-end development
+Remix
+
+browser-based development environment for writing blockchain code
+Note that you will need front-end and server-side developers for building applications with blockchain.
