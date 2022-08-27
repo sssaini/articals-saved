@@ -1,0 +1,10 @@
+• Reaching a million users and above requires bits of all the previous points:
+• Multi-AZ
+• Elastic Load Balancing between tiers. Not just on the web tier, but also on the application tier, data tier, and any other tier you have.
+• Auto Scaling
+• Service Oriented Architecture
+• Serve Content Smartly with S3 and CloudFront
+• Put caching in front of the DB
+• Move state off the web tier.
+• Use Amazon SES to send email.
+• Use CloudWatch for monitoring.
