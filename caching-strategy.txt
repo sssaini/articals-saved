@@ -1,0 +1,4 @@
+•  caches content at the edge locations to provide your users the lowest latency access possible.
+• Without a CDN your users will experience higher latency access to your content. Your servers will also be under higher load as they are serving the content as well as handling the web requests.
+• Cache is used to offload popular reads from the database.
+• No SQL is used to offload Session data.
