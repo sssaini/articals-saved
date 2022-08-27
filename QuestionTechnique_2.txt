@@ -1,0 +1,157 @@
+"Garbage in, garbage out," is a popular truth, often said in relation to computer systems: if you put the wrong information in, you'll get the wrong information out.
+The same principle applies to communications in general: if you ask the wrong questions, you'll probably get the wrong answer, or at least not quite what you're hoping for.
+Asking the right question is at the heart of effective communications and information exchange. By using the right questions in a particular situation, you can improve a whole range of communications skills. For example, you can gather better information and learn more, you can build stronger relationships, manage people more effectively, and help others to learn too.
+In this article and in the video, below, we will explore some common questioning techniques, and when (and when not) to use them.
+
+
+Open and Closed Questions
+A closed question usually receives a single word or very short, factual answer. For example, "Are you thirsty?" The answer is "Yes" or "No"; "Where do you live?" The answer is generally the name of your town or your address.
+Open questions elicit longer answers. They usually begin with what, why, how. An open question asks the respondent for his or her knowledge, opinion or feelings. "Tell me" and "describe" can also be used in the same way as open questions. Here are some examples:
+• What happened at the meeting?
+• Why did he react that way?
+• How was the party?
+• Tell me what happened next.
+• Describe the circumstances in more detail.
+Open questions are good for:
+• Developing an open conversation: "What did you get up to on vacation?"
+• Finding out more detail: "What else do we need to do to make this a success?"
+• Finding out the other person's opinion or issues: "What do you think about those changes?"
+Closed questions are good for:
+• Testing your understanding, or the other person's: "So, if I get this qualification, I will get a raise?"
+• Concluding a discussion or making a decision: "Now we know the facts, are we all agreed this is the right course of action?"
+• Frame setting: "Are you happy with the service from your bank?"
+A misplaced closed question, on the other hand, can kill the conversation and lead to awkward silences, so are best avoided when a conversation is in full flow.
+Funnel Questions
+This technique involves starting with general questions, and then drilling down to a more specific point in each. Usually, this will involve asking for more and more detail at each level. It's often used by detectives taking a statement from a witness:
+"How many people were involved in the fight?"
+"About ten."
+"Were they kids or adults?"
+"Mostly kids."
+"What sort of ages were they?"
+"About fourteen or fifteen."
+"Were any of them wearing anything distinctive?"
+"Yes, several of them had red baseball caps on."
+"Can you remember if there was a logo on any of the caps?"
+"Now you come to mention it, yes, I remember seeing a big letter N."
+Using this technique, the detective has helped the witness to re-live the scene and to gradually focus in on a useful detail. Perhaps he'll be able to identify young men wearing a hat like this from CCTV footage. It is unlikely he would have got this information if he's simply asked an open question such as "Are there any details you can give me about what you saw?"
+
+
+Tip:
+When using funnel questioning, start with closed questions. As you progress through the tunnel, start using more open questions.
+Funnel questions are good for:
+• Finding out more detail about a specific point: "Tell me more about Option Two."
+• Gaining the interest or increasing the confidence of the person you're speaking with: "Have you used the IT Helpdesk?," "Did it solve your problem?," "What was the attitude of the person who took your call?"
+
+Probing Questions
+Asking probing questions is another strategy for finding out more detail. Sometimes it's as simple as asking your respondent for an example, to help you understand a statement that they have made. At other times, you need additional information for clarification, "When do you need this report by, and do you want to see a draft before I give you my final version?" Or to investigate whether there is proof for what has been said, "How do you know that the new database can't be used by the sales force?"
+An effective way of probing is to use the 5 Whys  method, which can help you quickly get to the root of a problem.
+Tip:
+Use questions that include the word "exactly" to probe further: "What exactly do you mean by fast-track?" or "Who, exactly, wanted this report?"
+Probing questions are good for:
+• Gaining clarification to ensure that you have the whole story and that you understand it thoroughly.
+• Drawing information out of people who are trying to avoid telling you something.
+
+
+Leading Questions
+Leading questions try to lead the respondent to your way of thinking. They can do this in several ways:
+• With an assumption – "How late do you think that the project will deliver?" This assumes that the project will certainly not be completed on time.
+• By adding a personal appeal to agree at the end – "Lori's very efficient, don't you think?" or "Option Two is better, isn't it?"
+• Phrasing the question so that the "easiest" response is "yes" – Our natural tendency to prefer to say "yes" than "no" plays an important part in the phrasing of questions: "Shall we all approve Option Two?" is more likely to get a positive response than "Do you want to approve Option Two or not?" A good way of doing this is to make it personal. For example, "Would you like me to go ahead with Option Two?" rather than "Shall I choose Option Two?"
+• Giving people a choice between two options – both of which you would be happy with, rather than the choice of one option or not doing anything at all. Strictly speaking, the choice of "neither" is still available when you ask "Which would you prefer... A or B?" but most people will be caught up in deciding between your two preferences.
+Note that leading questions tend to be closed.
+
+
+Leading questions are good for:
+• Getting the answer you want, but leaving the other person feeling that they haven't got a choice.
+• Closing a sale: "If that answers all of your questions, shall we agree on a price?"
+
+Tip:
+Use leading questions with care. If you use them in a self-serving way or one that harms the interests of the other person, then they can, quite rightly, be seen as manipulative and dishonest.
+
+
+Rhetorical Questions
+Rhetorical questions aren't really questions at all, in that they don't expect an answer. They're really just statements phrased in question form: "Isn't John's design work so creative?"
+People use rhetorical questions because they are engaging for the listener – as they are drawn into agreeing ("Yes it is and I like working with such a creative colleague") – rather than feeling that they are being "told" something like "John is a very creative designer." (To which they may answer "So What?")
+Tip:
+Rhetorical questions are even more powerful if you use a string of them. "Isn't that a great display? Don't you love the way the text picks up the colors in the photographs? Doesn't it use space really well? Wouldn't you love to have a display like that for our products?"
+Rhetorical questions are good for:
+• Engaging the listener.
+• Getting people to agree with your point of view.
+Using Questioning Techniques
+You have probably used all of these questioning techniques before in your everyday life, at work and at home. But by consciously applying the appropriate kind of questioning, you can gain the information, response or outcome that you want even more effectively.
+Questions are a powerful way of:
+• Learning: ask open and closed questions, and use probing questioning.
+• Relationship building: people generally respond positively if you ask about what they do or enquire about their opinions. If you do this in an affirmative way "Tell me what you like best about working here" you will help to build and maintain an open dialogue.
+• Managing and coaching: here, rhetorical and leading questions are useful too. They can help get people to reflect and to commit to courses of action that you've suggested: "Wouldn't it be great to gain some further qualifications?"
+• Avoiding misunderstandings: use probing questions to seek clarification, particularly when the consequences are significant. And to make sure that you avoid jumping to conclusions. The Ladder of Inference  tool can help you here, too.
+• De-fusing a heated situation: you can calm an angry customer or colleague by using funnel questions to get them to go into more detail about their grievance. This will not only distract them from their emotions, but will often help you to identify a small practical thing that you can do, which is often enough to make them feel that they have "won" something, and no longer need to be angry.
+• Persuading people: no one likes to be lectured, but asking a series of open questions will help others to embrace the reasons behind your point of view. "What do you think about bringing the sales force in for half a day to have their laptops upgraded?"
+
+
+More Tips:
+Make sure that you give the person you're questioning enough time to respond. This may need to include thinking time before he or she answers, so don't just interpret a pause as a "No comment" and plow on.
+Skillful questioning needs to be matched by careful listening so that you understand what people really mean with their answers.
+Your body language and tone of voice can also play a part in the answers you get when you ask questions.
+
+
+
+Take the following steps to prepare for better questioning techniques
+	1. Identify your intention or purpose for asking questions and link the questions to it
+	2. Determine the levels of questions you want to ask
+	3. Select the content and choose the material that you consider important
+	4. Plan the questions that you want to use
+	5. Make sure you have your arsenal of the key as well as subsidiary questions at hand
+	6. Choose the questioning technique that will fit the situation
+	7. Phrase the questions in a manner that makes it clear to the respondent
+	8. Decide on the timing and order of questioning
+	9. Analyze the given information to come up with an answer
+
+
+Purpose of questioning techniques
+The purpose of questioning techniques is as follows-
+	1. Engage, involve and challenge
+	2. Boost independent learning
+	3. Clear doubts and gain clarity
+	4. Share ideas and start conversations. It also helps to take control of the conversation
+	5. Express interest in others and build rapport
+	6. Promote reasoning power
+	7. Encourage the habit of problem-solving
+	8. Promote thinking on important issues and key concepts
+	9. Helps to evaluate and boost analytical thinking
+	10. Develop an interest
+	11. Recall existing knowledge
+	12. Develop a better understanding of a subject
+	13. Check on the knowledge gained at earlier instances
+	14. Know about the opinions and beliefs of other people
+	15. Obtain information and search for viable solutions
+	16. Explore attitudes and feelings
+
+
+The strategies of questioning techniques in a classroom are-
+	1. Do not ask questions only to those students who are raising their hands and volunteering to answer the question. Make it a no-hands policy where the students will not raise hands instead the teacher will ask anyone randomly
+	2. Introduce a wait time if you are looking for an effective questioning technique in the classroom. The wait time gives the student time to think, process, and rehearse the answer before speaking. This action will bring considerable improvement in the student’s interaction
+	3. The teacher should plan the lesson so that the questions are well prepared. It will keep the experience on track and achieve desired outcomes
+	4. Use various types of questions during the question and answer session as it will give the students a chance to deal with every situation admirably.
+	5. It is essential to encourage the students so that they can ask a question in a classroom. This will foster a better understanding of the lesson
+	6. Prepare the follow-up questions so that you can use it if required
+	7. Do not dismiss any answers as it will discourage students from participating in such activities
+
+Advantages 
+The advantages of questioning techniques in teaching are-
+	1. The question-answer method helps develop critical thinking and analytical skills in children from an early age
+	2. The questioning techniques develop the power of expression amongst students
+	3. It helps to analyze the mindset of students and determine whether they can cope in their surroundings
+	4. It is also used to reflect on the behavior and attitude of a student
+	5. The questioning techniques help children to think aloud and have active discussions
+	6. It helps the learners to clear their doubts
+	7. Motivates them to develop various interests
+	8. Empowers students so that they become confident
+	9. Helps teachers to check the understanding level of a student
+
+
+The disadvantages of questioning techniques in teaching are-
+	1. It is a very time-consuming process that takes a lot of effort
+	2. A teacher will have to be skilled to use this method as an advantage
+	3. It can disturb the atmosphere in the class.
+Conclusion
+
