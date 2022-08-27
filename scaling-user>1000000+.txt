@@ -1,0 +1,16 @@
+• As we get bigger we’ll hit issues in the data tier. You will potentially start to run into issues with your database around contention with the write master, which basically means you can only send so much write traffic to one server.
+• How do you solve it?
+• Federation
+• Sharding
+• Moving some functionality to other types of DBs (NoSQL, graph, etc)
+• Federation - splitting into multiple DBs based on function
+• For example, create a Forums Database, a User Database, a Products Database. You might have had these in a single database before, now spread them out.
+• The different databases can be scaled independently of each other.
+• The downsides: you can’t do cross database queries; it delays getting to the next strategy, which is sharding.
+• Sharding -  splitting one dataset across multiple hosts
+• More complex at the application layer, but there’s no practical limit on scalability.
+• For example, in a Users Database ⅓ of the users might be sent to one shard, and the last third to another shard, and another shard to another third.
+• Moving some functionality to other types of DBs
+• Start thinking about a NoSQL database.
+• If you have data that doesn’t require complex joins, like say a leaderboard, rapid ingest of clickstream/log data, temporary data, hot tables, metadata/lookup tables, then consider moving it to a NoSQL database.
+• This means they can be scaled independently of each other.
