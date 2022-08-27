@@ -1,0 +1,10 @@
+• Use SOA/microservices.  Take components from your tiers and separate them out. Create separate services like when you separated the web tier from the database tier.
+• The individual services can then be scaled independently. This gives you a lot of flexibility for scaling and high availability.
+• SOA is a key component of the architectures built by Amazon.
+• Loose coupling sets you free.
+• You can scale and fail components independently.
+• If a worker node fails in pulling work from SQS does it matter? No, just start another one. Things are going to fail, let’s build an architecture that handles failure.
+• Design everything as a black box.
+• Decouple interactions.
+• Favor services with built-in redundancy and scalability rather than building your own.
+• Take for example a Photo CMS. The systems that collects the photos and processes them should be two different systems. They should be able to scale independently. They should be loosely coupled. Ingest a photo, put it in queue, and workers can pull photos off the queue and do something with them
