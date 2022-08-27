@@ -1,0 +1,12 @@
+The tasks should be:
+	• not too hard (doable within about a month) but usually not less than a week;
+	• not alter some core components of the system;
+	• mostly isolated, does not require full knowledge of the system;
+	• somewhat interesting to implement or have some point of research;
+	• not in critical path of our roadmap (ok to be throwed away after a year);
+	• most of them are for C++ developers, but there should be also tasks for frontend developers or tools/research that only require Go/Python/whatever;
+	• some tasks should allow team work;
+	• cover various skills, e.g. system programming, algorithm knowledge,
+	
+	
+	
