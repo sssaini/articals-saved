@@ -1,0 +1,20 @@
+What Adcash Is Using Today 
+• Languages: PHP7, Hack, Lua (core adserving), Scala, Java (core prediction), Go
+• Database (operations): MariaDB, Druid, Redis
+• Database (machine learning): Hadoop, Hbase, Spark MLLIB
+• Data pipe: Apache Kafka
+• Log collection: Elasticsearch, Kibana, Logstash
+• Charting: Grafana
+• Server: Openresty (nginx)
+• Hosting: Google Cloud, Bare metal provider
+• Javascript UI Library: Angular, React (new projects)
+• Productivity suite: Google Apps
+• Project management: Jira and Confluence
+• Transactional email: Amazon SES
+• Promotional email: Mailchimp
+• CRM: Zoho
+• Code collaboration and version control: Gitlab
+• Continuous integration and task scheduling: Jenkins
+• Communication: Slack, Skype
+• Server management: Ansible
+• Operating system: Ubuntu and Debian, CoreOS for Kubernetes deployments
