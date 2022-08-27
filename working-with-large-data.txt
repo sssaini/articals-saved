@@ -1,0 +1,5 @@
+Why use MapReduce?
+- Nice way to partition tasks across lots of machines.
+- Handle machine failure.
+- Works across different application types, like search and ads. Almost every application has map reduce type operations. You can precompute useful data, find word counts, sort TBs of data, etc.
+- Computation can automatically move closer to the IO source.
