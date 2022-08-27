@@ -1,0 +1,2 @@
+• CloudWatch events drive scaling.
+• Are you going to scale on CPU utilization? Are you going to scale on latency? On network traffic?
