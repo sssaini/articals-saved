@@ -1,0 +1,11 @@
+• Start with a SQL database instead of a NoSQL database.
+• The suggestion is to start with a SQL database.
+• The technology is established.
+• There’s lots of existing code, communities, support groups, books, and tools.
+• You aren’t going to break a SQL database with your first 10 million users. Not even close. (unless your data is huge).
+• Clear patterns to scalability.
+• When might you need start with a NoSQL database?
+• If you need to store > 5 TB of data in year one or you have an incredibly data intensive workload.
+• Your application has super low-latency requirements.
+• You need really high throughput. You need to really tweak the IOs you are getting both on the reads and the writes.
+• You don’t have any relational data.
