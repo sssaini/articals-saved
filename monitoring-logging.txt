@@ -1,0 +1,7 @@
+• You need to add monitoring, metrics and logging.
+• Host level metrics. Look at a single CPU instance within an autoscaling group and figure out what’s going wrong.
+• Aggregate level metrics. Look at metrics on the Elastic Load Balancer to get feel for performance of the entire set of instances.
+• Log analysis. Look at what the application is telling you using CloudWatch logs. CloudTrail helps you analyze and manage logs.
+• External Site Performance. Know what your customers are seeing as end users. Use a service like New Relic or Pingdom.
+• You need to know what your customers are saying. Is their latency bad? Are they getting an error when they go to your web page?
+• Squeeze as much performance as you can from your configuration. Auto Scaling can help with that. You don’t want systems that are at 20% CPU utilization.
