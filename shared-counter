@@ -1,0 +1,5 @@
+• The solution is to shard counters. This means:
+• Create N counters in parallel.
+• Pick a shard to increment transactionally at random for each item counted.
+• To get the real current count sum up all the sharded counters.
+• Contention is reduced by 1/N. Writes have been optimized because they have been spread over the different shards. A bottleneck around shared state has been removed.
