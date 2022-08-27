@@ -1,0 +1,15 @@
+
+https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/verbs
+
+https://www.mindtools.com/pages/main/newMN_CON.htm
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec1-intro.html
+
+
+
+https://tools.ietf.org/id/draft-kelly-json-hal-01.html
+
+https://apigility.org/documentation/api-primer/halprimer
+
+https://docs.microsoft.com/en-us/iis-administration/api/hal
+
+https://adidas.gitbook.io/api-guidelines/rest-api-guidelines/message/hal
