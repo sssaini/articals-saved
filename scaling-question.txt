@@ -1,0 +1,8 @@
+Good questions to test your knowledge:
+• Why to scale? how people do that usually?
+• How to deal with user session on memory RAM with N servers? how LB know which server is up? how LB knows which server to send the request?
+• Isn’t LB another SPOF? how can we provide a failover for LB?
+• Isn’t my OS limited by 64K ports? is linux capable of doing that out of the box?
+• How does mongo solves failover and high scalability? how about cassandra? how cassandra does sharding when a new node come to the cluster?
+• What is cache lock? What caching policies should I use?
+• How can a single domain have multiple IP addresses (ex: $ host www.google.com)? What is BGP? How can we use DNS or BGP to serve geographically users?
