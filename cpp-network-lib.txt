@@ -1,0 +1,5 @@
+https://cpp-netlib.org/0.13.0/index.html
+
+https://stackoverflow.com/questions/17799229/boost-asio-post-http-request-headers-and-body
+
+https://www.boost.org/doc/libs/1_70_0/libs/beast/doc/html/index.html
