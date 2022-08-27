@@ -1,0 +1,14 @@
+ blog on GraphQL resolver best practices for PayPal Engineering.
+
+https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md#7102-error-condition-responses
+
+ Learning GraphQL by Eve Porcello and Alex Banks
+
+• ThoughtWorks Technology Radar
+• Gartner Magic Quadrant for Full Life Cycle API Management
+• Cloud Native Computing Foundation (CNCF) Tech Radar
+• InfoQ Trends Reports
+
+https://webconcepts.info/concepts/
+
+https://tools.ietf.org/id/draft-kelly-json-hal-01.html
